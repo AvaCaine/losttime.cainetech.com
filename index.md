@@ -8,5 +8,5 @@ If you’d like to support our mission, you can donate here:
 🌟 [[Donation Page]](https://ko-fi.com/losttimeorg) 🌟 
 
 Every contribution - big or small - helps us keep doing this work.
-Thank you for standing with us.
+Thank you for standing with us.<br>
 You can join our [[community server]](https://discord.gg/K2gJ7cH5nW) for additional info
