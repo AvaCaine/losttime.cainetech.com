@@ -4,7 +4,7 @@ Lost Time is a volunteer-run project dedicated to protecting teens, reporting ha
 -# Note that we ***do*** work with law enforcement to ensure that matters are handeled properly and fully.
 
 
-If you’d like to support our mission, you can donate here:
+If you’d like to support our mission, you can donate here:<br>
 🌟 [[Donation Page]](https://ko-fi.com/losttimeorg) 🌟 
 
 Every contribution - big or small - helps us keep doing this work.
